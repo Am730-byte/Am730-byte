@@ -2,7 +2,7 @@
 
 I turn coffee ☕ into code 💻 and ideas into functional, dynamic websites.  
 Currently coding my way through a **B.Tech in Computer Science** at  
-_G.B. Pant Govt. Engineering College_ — where tech meets ambition. 🚀
+G.B. Pant Govt. Engineering College
 
 ---
 
